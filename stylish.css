@@ -1,0 +1,36 @@
+body{
+	background-image:url('kazuma.png') ;
+	background-repeat: no-repeat;
+	background-size: cover ;
+	width: 100%;
+	background-position: center center;
+	background-attachment: fixed;
+
+}
+h1{
+	text-align: center;
+}
+#mate1 {
+	height: 21 px;
+	position: relative;
+	text-align: center;
+
+}
+#mate1 input{
+    margin: 0;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-right: -50%;
+	transform:translate(-50%, -50%);
+}
+#mate{
+	position: relative;
+	text-align: center;
+	top: 10px;
+}
+#mate button{
+	
+
+	
+}

@@ -1,0 +1,23 @@
+body{
+	background-image:url('hehe.jpg') ;
+	background-repeat: no-repeat;
+	background-size: cover ;
+	width: 100%;
+	background-position: center center;
+
+	background-attachment: fixed;}
+
+p{
+	font-family: "Comic Sans MS";
+	
+	color:rgb(255,255,255);
+	text-align: center;
+	font-size: 30px;
+
+}
+img{
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	width: 50%;
+}
